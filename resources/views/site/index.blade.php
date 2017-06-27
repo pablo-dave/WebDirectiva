@@ -711,7 +711,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
-                    <h1>Contact Info</h1>
+                    <h1>Información de Contacto</h1>
                     <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
                 </div>          
             </div>      
@@ -719,16 +719,16 @@
                 <div id="cnt_form">
                     <form id="contact-form" class="contact" name="contact-form" method="post" action="send-mail.php">
                         <div class="form-group">
-                        <input type="text" name="name" class="form-control name-field" required="required" placeholder="Your Name">
+                        <input type="text" name="name" class="form-control name-field" required="required" placeholder="Nombre">
                         </div>
                         <div class="form-group">
-                            <input type="email" name="email" class="form-control mail-field" required="required" placeholder="Your Email">
+                            <input type="email" name="email" class="form-control mail-field" required="required" placeholder="Email">
                         </div> 
                         <div class="form-group">
-                            <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message"></textarea>
+                            <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Mensaje"></textarea>
                         </div> 
                         <div class="form-group">
-                            <button type="submit" class="btn btn-primary">Send</button>
+                            <button type="submit" class="btn btn-primary">Enviar</button>
                         </div>
                     </form> 
                 </div>
@@ -736,7 +736,7 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="cnt_info">
                     <ul>
-                        <li><i class="fa fa-facebook"></i><p>121 King Street, Melbourne Victoria 3000 Australia</p></li>
+                        <li><i class="fa fa-facebook"></i><p>Av. Colon y Versalles</p></li>
                         <li><i class="fa fa-envelope"></i><p>contact@info.com</p></li>
                         <li><i class="fa fa-phone"></i><p>+0987654321 (+012345678)</p></li>
                     </ul>
