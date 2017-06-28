@@ -157,7 +157,8 @@
             </div>      
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="abt">
-                    <p>Mauris luctus aliquet nunc quis consectetur. Curabitur elit massa, consequat vel velit sit amet, scelerisque hendrerit mi. Cras pellentesque sem turpis, quis interdum mi sagittis a. Donec mattis porttitor eleifend</p>
+                    <p>Los servicios ofrecidos por Directiva comprenden diversos ambitos de la informática. Analizamos de manera exhaustiva los requerimientos de su empresa, buscando la solución que mejor se adapte a sus necesidades y presupuesto.</p>
+					<p>Los profesionales especializados de nuestra firma llevan a cabo actividades de análisis, diseño, construcción, pruebas e implementación de sistemas de información a la medida de las necesidades de nuestros clientes.</p>
                 </div>
             </div>          
         </div>
@@ -174,28 +175,28 @@
             <div class="counting_sl">
             <i class="fa fa-user"></i>
             <h2 class="counter">43,753</h2>
-            <h4>Happy Clients</h4>  
+            <h4>Clientes Satisfechos</h4>  
             </div>
         </div>          
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
             <div class="counting_sl">
             <i class="fa fa-desktop"></i>
             <h2 class="counter">20,210</h2>
-            <h4>Complete Project</h4>   
+            <h4>Proyectos Completados</h4>   
             </div>
         </div>          
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
             <div class="counting_sl">
             <i class="fa fa-ticket"></i>
             <h2 class="counter">43,753</h2>
-            <h4>Answered Tickets</h4>   
+            <h4>Tickets Respondidos</h4>   
             </div>
         </div>          
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
             <div class="counting_sl">
             <i class="fa fa-clock-o"></i>
             <h2 class="counter">45,105</h2>
-            <h4>Development Hours</h4>  
+            <h4>Horas de Desarrollo</h4>  
             </div>
         </div>                                      
     </div>                  
@@ -209,8 +210,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
-                    <h1>Our Skill diagram</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h1>Nuestro diagrama de habilidades</h1>
+                    <h2>Trabajamos con la ultima tecnologia , disponible en el mercado</h2>
                 </div>          
             </div>          
           <div class="skills progress-bar1">          
@@ -222,7 +223,7 @@
                       </li>
                       <li class="progress">
                             <div class="progress-bar" data-width="65">
-                                  Graphic Design 65%
+                                  Diseño Gráfico 65%
                             </div>
                       </li>
                       <li class="progress">
@@ -244,12 +245,12 @@
                       </li>
                       <li class="progress">
                             <div class="progress-bar" data-width="95">
-                                  App Development 95%
+                                  Desarrollo App 95%
                             </div>
                       </li>
                       <li class="progress">
                             <div class="progress-bar" data-width="70">
-                                  IT Consultency 70%
+                                  Consultoria TI 70%
                             </div>
                       </li>
                       <li class="progress">
@@ -279,44 +280,44 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <div class="service">                       
                     <i class="fa fa-globe"></i>
-                    <h2>web Development</h2>
+                    <h2>Desarrollo de Software</h2>
                     <div class="service_hoverly">
                         <i class="fa fa-globe"></i>
-                        <h2>web Development</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore ab odio quas  , voluptate aspernatur!</p>
+                        <h2>Desarrollo de Software</h2>
+                        <p>Manejamos los lenguajes de programación mas solicitados en el mercado!</p>
                     </div>
                 </div>
             </div>              
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <div class="service">                       
                     <i class="fa fa-paper-plane"></i>
-                    <h2>E-mail marketing</h2>
+                    <h2>Mantenimiento de Sistemas</h2>
                     <div class="service_hoverly">
                         <i class="fa fa-paper-plane"></i>
-                        <h2>E-mail marketing</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore ab odio quas  , voluptate aspernatur!</p>
+                        <h2>Mantenimiento de Sistemas</h2>
+                        <p>Prevío analisis del sistema, ofrecemos las mejores soluciones a su modificacion y acorde a su bolsillo!</p>
                     </div>
                 </div>
             </div>              
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <div class="service">                       
                     <i class="fa fa-wordpress"></i>
-                    <h2>WordPress</h2>
+                    <h2>Soporte Técnico</h2>
                     <div class="service_hoverly">
                         <i class="fa fa-wordpress"></i>
-                        <h2>WordPress</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore ab odio quas  , voluptate aspernatur!</p>
+                        <h2>Soporte Técnico</h2>
+                        <p>Mantenimiento de hardaware/software varios niveles, redes, cableado estructurado, servidores, etc.!</p>
                     </div>
                 </div>
             </div>              
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <div class="service">                       
                     <i class="fa fa-paint-brush"></i>
-                    <h2>Graphic Design</h2>
+                    <h2>Asesoramiento de Ti</h2>
                     <div class="service_hoverly">
                         <i class="fa fa-paint-brush"></i>
-                        <h2>Graphic Design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore ab odio quas  , voluptate aspernatur!</p>
+                        <h2>Asesoramiento de Ti</h2>
+                        <p>De acuerdo a la problematica planteda por la empresa, se realiza una evaluación y se da una solucion eficaz!</p>
                     </div>
                 </div>
             </div>          
@@ -413,7 +414,7 @@
             </div>
                 <div class="post_btn">
                     <div class="hover_effect_btn" id="hover_effect_btn">
-                        <a href="#hover_effect_btn" data-hover="view more post"><span>view more post</span></a>
+                        <a href="#hover_effect_btn" data-hover="view more post"><span>ver mas...</span></a>
                     </div>
                 </div>  
             </div>          
@@ -427,8 +428,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
-                    <h1>Our Team</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h1>Nustro Equípo</h1>
+                    <h2>Trabajamos con la ultima tecnologia , disponible en el mercado!</h2>
                 </div>          
             </div>      
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12">
@@ -712,7 +713,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
                     <h1>Información de Contacto</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h2>Déjenos conocer sus necesidades, para ofrecerle la mejor solución tecnológica</h2>
                 </div>          
             </div>      
             <div class="col-sm-6"> 
@@ -736,9 +737,9 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="cnt_info">
                     <ul>
-                        <li><i class="fa fa-facebook"></i><p>Av. Colon y Versalles</p></li>
-                        <li><i class="fa fa-envelope"></i><p>contact@info.com</p></li>
-                        <li><i class="fa fa-phone"></i><p>+0987654321 (+012345678)</p></li>
+                        <li><i class="fa fa-map-marker"></i><p>Av. Colon y Versalles</p></li>
+                        <li><i class="fa fa-envelope"></i><p>fabian.mauricio.d.a@hotmail.com</p></li>
+                        <li><i class="fa fa-phone"></i><p>+0987546210 (+5932-3173-067)</p></li>
                     </ul>
                 </div>
             </div>          
@@ -753,7 +754,7 @@
     <div class="row">
         <div class="col-lg-12">
             <div class="map">                       
-            <h1>located THE MAP</h1><a href="#slidingDiv" class="show_hide" rel="#slidingDiv"><i class="fa fa-angle-up"></i></a>
+            <h1>Donde estamos?</h1><a href="#slidingDiv" class="show_hide" rel="#slidingDiv"><i class="fa fa-angle-up"></i></a>
             <div id="slidingDiv">
                 <div class="map_area">
                     <div id="googleMap" style="width:100%;height:300px;"></div>
