@@ -429,7 +429,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
                     <h1>Nustro Equípo</h1>
-                    <h2>Trabajamos con la ultima tecnologia , disponible en el mercado!</h2>
+                    <h2>Trabajamos con la ultima tecnologia , disponible en el mercado</h2>
                 </div>          
             </div>      
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12">
@@ -565,7 +565,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
                     <h1>Our Latest Blog</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h2>TRABAJAMOS CON LA ULTIMA TECNOLOGIA , DISPONIBLE EN EL MERCADO</h2>
                 </div>          
             </div>      
             <div class="col-lg-4 col-md-4 col-sm-12">
@@ -610,7 +610,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
                     <h1>Our Pricing Plan</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h2>TRABAJAMOS CON LA ULTIMA TECNOLOGIA , DISPONIBLE EN EL MERCADO</h2>
                 </div>          
             </div>      
             <div class="col-lg-4 col-md-4 col-sm-12">
@@ -665,8 +665,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12 ">
                 <div class="title_sec">
-                    <h1>Our Happy Clients</h1>
-                    <h2>WE’RE BRANDING & DIGITAL STUDIO FROM VIET NAM</h2>
+                    <h1>Nuestros Clientes Satisfechos</h1>
+                    <h2>TRABAJAMOS CON LA ULTIMA TECNOLOGIA , DISPONIBLE EN EL MERCADO</h2>
                 </div>          
             </div>      
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs12">
@@ -787,7 +787,7 @@
                 </div>
                 <ul class="copy_right">
                     <li>&copy;Directiva 2017</li>
-                    <li>developer by md. shiddikur rahman</li>
+                    <li>Desarollado por: Directiva</li>
                 </ul>                   
             </div>  
         </div>
